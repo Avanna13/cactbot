@@ -71,7 +71,7 @@ Options.Triggers.push({
         text: {
           en: 'Party Out => In + Partners',
           de: 'Party Raus => Rein + Partner',
-          fr: 'Extérieur => Intérieur + package sur les heals',
+          fr: 'Extérieur => Intérieur + partenaires',
           cn: '场外 => 场中 + 两人分摊',
         },
       },
@@ -101,7 +101,7 @@ Options.Triggers.push({
         text: {
           en: 'Sides => In + Partners',
           de: 'Seiten => Rein + Partner',
-          fr: 'Côtés => Intérieur + Package sur les heals',
+          fr: 'Côtés => Intérieur + Partenaires',
           cn: '两侧 => 两人分摊 + 场内',
         },
       },
